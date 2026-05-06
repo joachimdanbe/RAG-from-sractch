@@ -1,4 +1,4 @@
-# 🏢 HR Policy Chatbot — RAG Pipeline
+# 🏢 HR Policy Chatbot - RAG Pipeline
 
 A lightweight Retrieval-Augmented Generation (RAG) chatbot that answers questions about company policies using only the provided knowledge base — no hallucinations.
 
